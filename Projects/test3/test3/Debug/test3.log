@@ -1,0 +1,5 @@
+﻿  test3.c
+c:\users\chan\documents\visual studio 2017\projects\test3\test3\test3.c(16): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\chan\documents\visual studio 2017\projects\test3\test3\test3.c(17): warning C4477: 'printf' : 서식 문자열 '%p'에 'void *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  test3.vcxproj -> C:\Users\Chan\documents\visual studio 2017\Projects\test3\Debug\test3.exe
+  test3.vcxproj -> C:\Users\Chan\documents\visual studio 2017\Projects\test3\Debug\test3.pdb (Partial PDB)

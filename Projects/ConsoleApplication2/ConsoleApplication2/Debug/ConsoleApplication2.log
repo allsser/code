@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\chan\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\test.c(16): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\test.c(17): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication2.vcxproj -> C:\Users\Chan\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Chan\documents\visual studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)

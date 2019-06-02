@@ -1,0 +1,5 @@
+c:\users\chan\documents\visual studio 2017\Projects\DiningPhilosopher\DiningPhilosopher\bin\Debug\DiningPhilosopher.exe
+c:\users\chan\documents\visual studio 2017\Projects\DiningPhilosopher\DiningPhilosopher\bin\Debug\DiningPhilosopher.pdb
+c:\users\chan\documents\visual studio 2017\Projects\DiningPhilosopher\DiningPhilosopher\obj\Debug\DiningTable.csprojResolveAssemblyReference.cache
+c:\users\chan\documents\visual studio 2017\Projects\DiningPhilosopher\DiningPhilosopher\obj\Debug\DiningPhilosopher.exe
+c:\users\chan\documents\visual studio 2017\Projects\DiningPhilosopher\DiningPhilosopher\obj\Debug\DiningPhilosopher.pdb

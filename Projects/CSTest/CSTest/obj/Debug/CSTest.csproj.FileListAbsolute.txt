@@ -1,0 +1,5 @@
+c:\users\chan\documents\visual studio 2017\Projects\CSTest\CSTest\bin\Debug\CSTest.exe
+c:\users\chan\documents\visual studio 2017\Projects\CSTest\CSTest\bin\Debug\CSTest.pdb
+c:\users\chan\documents\visual studio 2017\Projects\CSTest\CSTest\obj\Debug\CSTest.csprojResolveAssemblyReference.cache
+c:\users\chan\documents\visual studio 2017\Projects\CSTest\CSTest\obj\Debug\CSTest.exe
+c:\users\chan\documents\visual studio 2017\Projects\CSTest\CSTest\obj\Debug\CSTest.pdb

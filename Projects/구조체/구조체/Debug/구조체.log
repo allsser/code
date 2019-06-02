@@ -1,0 +1,6 @@
+﻿  구조체.c
+c:\users\chan\documents\visual studio 2017\projects\구조체\구조체\구조체.c(31): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\chan\documents\visual studio 2017\projects\구조체\구조체\구조체.c(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  구조체.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\구조체\Debug\구조체.exe
+  구조체.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\구조체\Debug\구조체.pdb (Partial PDB)

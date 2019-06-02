@@ -1,0 +1,5 @@
+c:\users\chan\documents\visual studio 2017\Projects\CSText1\CSText1\obj\Debug\CSText1.csprojResolveAssemblyReference.cache
+c:\users\chan\documents\visual studio 2017\Projects\CSText1\CSText1\bin\Debug\CSText1.exe
+c:\users\chan\documents\visual studio 2017\Projects\CSText1\CSText1\bin\Debug\CSText1.pdb
+c:\users\chan\documents\visual studio 2017\Projects\CSText1\CSText1\obj\Debug\CSText1.exe
+c:\users\chan\documents\visual studio 2017\Projects\CSText1\CSText1\obj\Debug\CSText1.pdb

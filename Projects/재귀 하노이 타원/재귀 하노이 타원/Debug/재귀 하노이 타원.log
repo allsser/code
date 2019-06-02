@@ -1,0 +1,4 @@
+﻿  하노이 타워.c
+c:\users\chan\documents\visual studio 2017\projects\재귀 하노이 타원\재귀 하노이 타원\하노이 타워.c(19): warning C4020: 'HanoiTowerMove': 실제 매개 변수가 너무 많습니다.
+  재귀 하노이 타원.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\재귀 하노이 타원\Debug\재귀 하노이 타원.exe
+  재귀 하노이 타원.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\재귀 하노이 타원\Debug\재귀 하노이 타원.pdb (Partial PDB)

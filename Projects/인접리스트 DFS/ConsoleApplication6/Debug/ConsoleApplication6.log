@@ -1,0 +1,7 @@
+﻿  인접리스트_DFS.c
+c:\users\chan\documents\visual studio 2017\projects\인접리스트 dfs\consoleapplication6\인접리스트_dfs.c(145): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\chan\documents\visual studio 2017\projects\인접리스트 dfs\consoleapplication6\인접리스트_dfs.c(149): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  ConsoleApplication6.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\인접리스트 DFS\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\chan\documents\visual studio 2017\Projects\인접리스트 DFS\Debug\ConsoleApplication6.pdb (Partial PDB)
